@@ -10,4 +10,4 @@
 * Запустить проект командой - **npm run start**
 
 ***
-Проект создан с помощью следующих технологий: JS, React, Redux, Git, VS-Code
+Проект создан с помощью следующих технологий: JS, React, Redux, Git, VS-Code, Bootstrap
