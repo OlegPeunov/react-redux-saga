@@ -25,6 +25,4 @@ function App() {
   );
 }
 
-// заметка тест
-
 export default App;
